@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{A29D7CEB-F35F-078C-9DB7-0DAE6BF4F4F4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RobotController.cs">
+    <Files>
+      <File FileName="Assets/RobotController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Self Driving Car" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4134c88e-3724-4c11-85d9-19782995d8b1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
